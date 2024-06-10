@@ -7,4 +7,5 @@
 
 # 3 DOF Manipulator control
 
-![2-DOF Robot](https://github.com/kroker22/Robot-PID-control/assets/156269847/8d7e97be-cd1a-4e62-b7ef-1acfc0ae3ff4)
+
+![3dof (2)](https://github.com/kroker22/Robot-PID-control/assets/156269847/63f5f072-14d8-4d4a-bc11-703320d3a38a)
